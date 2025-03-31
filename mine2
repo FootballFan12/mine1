@@ -34,13 +34,9 @@
 <body>
 
     <div class="game-container">
-        <iframe src="https://pokeheroes.com" allowfullscreen></iframe>
+        <iframe src="https://www.gamenora.com/game/pokemon-radical-red/" allowfullscreen></iframe>
     </div>
 
 </body>
 </html>
-
-git add .
-git commit -m "Initial commit for my game website"
-git push origin main
 
