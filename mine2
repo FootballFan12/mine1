@@ -34,7 +34,7 @@
 <body>
 
     <div class="game-container">
-        <iframe src="https://google.com" allowfullscreen></iframe>
+        <iframe src="https://pokeheroes.com" allowfullscreen></iframe>
     </div>
 
 </body>
