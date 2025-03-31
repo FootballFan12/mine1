@@ -34,28 +34,12 @@
 <body>
 
     <div class="game-container">
-        <iframe src="https://www.gamenora.com/game/pokemon-radical-red/" allowfullscreen></iframe>
+        <iframe src="https://itfailedemulator.com" allowfullscreen></iframe>
     </div>
 
 </body>
 </html>
 
-# Navigate to your repository folder (replace with your actual folder path)
-cd /path/to/your/repository
-
-# Check which branch you're on (ensure you're on the 'main' branch)
-git branch
-
-# If you're not on 'main', switch to it
-git checkout main
-
-# Stage all changes (or you can stage a specific file like index.html)
 git add .
-
-# Commit the changes with a descriptive message
-git commit -m "Updated iframe URL to correct game link"
-
-# Push the changes to the 'main' branch on GitHub
+git commit -m "Your commit message"
 git push origin main
-
-
